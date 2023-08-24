@@ -30,7 +30,7 @@ const concatenarArreglos = (arr1, arr2) => arr1.concat(arr2); // Con la funcion 
 console.log(concatenarArreglos([1, 2], [3, 4, 5]));
 
 //-------------------------------------------------------------------
-// Si la funcion tiene mas de una linea
+// >>> Si la funcion tiene mas de una linea
 
 // const sumar = function(a, b) {
 //     let num = 6;
